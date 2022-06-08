@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/22b34d33-417a-49b0-a11c-90be2cf8bc6b/resourceGroups/learn-e2177ea4-646b-4fcb-9efd-cbcb86f4fbb5/providers/Microsoft.Web/sites/alienapp",
+    "appService.deploySubpath": "."
+}
